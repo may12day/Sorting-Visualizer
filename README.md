@@ -11,7 +11,7 @@
 ## ⛏️ Built Using
 - Python
 
-## Installation
+## 🖥️ Installation
 - Fork & clone this repo in your local machine
 - Run the following two commands and you are done
 ```
@@ -25,5 +25,5 @@ python main.py
 
   <p align="center">
     <a href="" rel="noopener">
-  <img width=1000 height=300 src="https://github.com/GSAUC3/Algorithm_visualizer/assets/26703868/7ad37080-e634-4e68-b195-88c027ece664" alt="Tracker India"></a>
+  <img width=800 height=600 src="https://github.com/GSAUC3/Algorithm_visualizer/assets/26703868/7ad37080-e634-4e68-b195-88c027ece664" alt="Tracker India"></a>
   </p>

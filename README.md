@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center"> Developed a graphical user interface (GUI) application in Python that facilitates the visualization of a range of sorting algorithms. 
+<p align="center"> Graphical user interface (GUI) application in Python that facilitates the visualization of a range of sorting algorithms. 
     <br> 
 </p>
 
@@ -14,15 +14,16 @@
 ## Installation
 - Fork & clone this repo in your local machine
 - Run the following two commands and you are done
-- 
+```
+pip install -r requirements.txt
+```
+```
+python main.py
+```
 
-## 📷 ScreenShots 
-
-- COVID-19 Tracker **INDIA**
-
-  - ##### Demo Page 
+## 📷 Screenshots
 
   <p align="center">
     <a href="" rel="noopener">
-  <img width=1000 height=300 src="https://user-images.githubusercontent.com/26703868/82257644-05293a00-9976-11ea-98e5-ff6f6f3d3032.png" alt="Tracker India"></a>
+  <img width=1000 height=300 src="https://github.com/GSAUC3/Algorithm_visualizer/assets/26703868/7ad37080-e634-4e68-b195-88c027ece664" alt="Tracker India"></a>
   </p>
